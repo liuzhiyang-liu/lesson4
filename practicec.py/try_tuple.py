@@ -42,15 +42,15 @@ for i in range(5):
     lucky = random.choice(a)
     print(lucky)
 print('----cutting line----')
-# change
+'''# change
 a = ['Micke', 'Paul']
 index = 0
 a[index] = 'Mike'
 print(a)
-print('----cutting line----')
+print('----cutting line----')'''
 # Delete
-a = ('Micke', 'Paul')
-'''index=0
+'''a = ('Micke', 'Paul')
+index=0
 del a[index]
 print(a)
 '''
