@@ -2,3 +2,7 @@
 import random
 
 family_words = ("赵", "钱", "孙", "李", "周", "吴", "郑", "王")
+
+
+luck = random.choice(family_words)
+print (luck)
